@@ -76,3 +76,4 @@ def geometric(a, ratio, n):
     return sum(sequence)
 
 
+MOi
